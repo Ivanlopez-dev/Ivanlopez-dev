@@ -19,7 +19,10 @@
 <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ivanlopez-dev&show_icons=true&theme=tokyonight) 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanlopez-dev&theme=tokyonight) 
+
+Thanks to read till here, a little joke:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
