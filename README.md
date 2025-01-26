@@ -6,7 +6,7 @@
 </div>
 
 &emsp;
-<h3 align="left"> 
+<h3 align="center"> 
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
   I'm Ivan, full stack Developer based in Lugo (Galicia, Spain). 
 <br>
