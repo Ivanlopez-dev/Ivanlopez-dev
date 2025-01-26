@@ -8,7 +8,7 @@
 &emsp;
 <h3 align="left"> 
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-  I'm Ivan López Rodríguez, full stack Developer based in Lugo (Galicia, Spain). 
+  I'm Ivan, full stack Developer based in Lugo (Galicia, Spain). 
 <br>
   <br>
 I have experience working in agile environment on several projects with JavaScript and frameworks like React and Next</h3>
