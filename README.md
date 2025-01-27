@@ -1,5 +1,5 @@
 <!--Header-->
-<h1 align="center">Hello there! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
+<h1 align="center">Hello fellow! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Full+Stack+Developer;Software+Enthusiast" alt="Headline" />
