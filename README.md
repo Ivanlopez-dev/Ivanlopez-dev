@@ -7,10 +7,10 @@
 
 &emsp;
 <h3 align="center">
-  I'm Ivan, a full stack Developer based in Lugo (Galicia, Spain). 
+  I'm Ivan, full stack Developer based in Lugo (Galicia, Spain). 
 <br>
   <br>
-I have experience working in agile environment on several projects with JavaScript and frameworks like React and Next</h3>
+I have 2+ years experience working in agile environment on several projects with JavaScript and frameworks like React and Next</h3>
 &emsp;
 
 <!--Languages and Tools Section-->       
