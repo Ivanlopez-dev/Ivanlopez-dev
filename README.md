@@ -6,11 +6,12 @@
 </div>
 
 &emsp;
-<h3 align="center">
+<p align="center">
   I'm Ivan, full stack Developer based in Lugo (Galicia, Spain). 
 <br>
   <br>
-I have 2+ years experience working in agile environment on several projects with JavaScript and frameworks like React and Next</h3>
+<h2 align="center">About me</h2>
+I have 2+ years experience working in agile environment on several projects with JavaScript and frameworks like React and Next</p>
 &emsp;
 
 <!--Languages and Tools Section-->       
