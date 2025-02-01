@@ -6,8 +6,8 @@
 </div>
 
 &emsp;
-<p align="center">
-  I'm Ivan, full stack Developer based in Lugo (Galicia, Spain). 
+<h2 align="center">
+  I'm Ivan, full stack Developer based in Lugo (Galicia, Spain). </h2>
 <br>
   <br>
 <h2 align="center">About me</h2>
