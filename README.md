@@ -1,5 +1,5 @@
 <!--Header-->
-<h1 align="center">Hello fellow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> </h1>
+<h3 align="center">Hello fellow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/> </h3>
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Software+Engineer;" alt="Headline" />
@@ -9,8 +9,7 @@
 
 
 <h2 align="center">About me</h2>
-I have 2+ years experience working in agile environment on several projects with JavaScript and frameworks like React and Next</p>
-
+<p>I have <strong>2+ years experience</strong> working in agile environment, on several projects with Vanilla <strong>JavaScript</strong> and libraries/frameworks like React and Next. I love create applications with JS in general and solve problems with creativity and clean code. </p>
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and tools</h2> 
