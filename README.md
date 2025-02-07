@@ -34,7 +34,7 @@
 Thank you very much to visit my profile!
 <br>
 
-😂 Here is a random joke that'll make you laugh
+Here is a random joke that'll make you laugh 😂
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder)
 
