@@ -3,8 +3,8 @@
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Full+Stack+Developer;;Student+of+Software+Engineer;" alt="Headline" />
-<h2 align="center">
-  I'm Ivan, full stack Developer based in Lugo (Galicia, Spain). </h2>
+  <h2 align="center">
+    I'm Ivan, full stack Developer based in Lugo (Galicia, Spain). </h2>
 </div>
 
 
@@ -23,20 +23,23 @@
 <br>
 
 <p align="center">
-<img align="center" alt="Ivan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Ivanlopez-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<img align="center" alt="Ivan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanlopez-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img align="center" alt="Ivan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Ivanlopez-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img align="center" alt="Ivan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanlopez-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
 
 &emsp;
 &emsp;
 <br>
 
-Thank you very much to visit my profile!
-<br>
-
-Here is a random joke that'll make you laugh 😂
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder)
+<div align="center">
+  Thank you very much to visit my profile!
+  <br>
+  
+  Here is a random joke that'll make you laugh 😂
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder)
+  
+</div>
 
 
 <br>
