@@ -9,7 +9,8 @@
 
 
 <h2 align="center">About me</h2>
-<p>I have <strong>2+ years experience</strong> working in agile environment, on several projects with Vanilla <strong>JavaScript</strong> and libraries/frameworks like React and Next. I love create applications with JS in general and solve problems with creativity and clean code. </p>
+<p>I have <strong>2+ years experience</strong> working in Agile environment with weekly Sprints, on several projects with Vanilla <strong>JavaScript</strong> and libraries/frameworks like React and Next. I started with MERN stack and focused on learning good practices and clean code. </p>
+<p>At the moment I'm focusing on learn React and Next.js deeply, like upgrading performance with SSR (Server Side Rendering) and other fantastic React tools.</p>
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and tools</h2> 
@@ -48,6 +49,6 @@
 -----
 
 <p align="end">
-  Last Edited on: 24/01/2025
+  Last Edited on: 11/02/2025
   
 </p>
