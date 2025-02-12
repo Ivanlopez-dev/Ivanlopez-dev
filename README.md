@@ -11,7 +11,7 @@
 <h2 align="center">About me</h2>
 <p>I have <strong>2+ years experience</strong> working in Agile environment with weekly Sprints, on several projects with Vanilla <strong>JavaScript</strong> and libraries/frameworks like React and Next.</p>
 <p>I started with MERN stack (MongoDb, Express, React and Node) and focused on learning good practices and clean code. </p>
-<p>At the moment I'm focusing on learn React and Next.js deeply, like upgrading performance with SSR (Server Side Rendering) and other fantastic React tools.</p>
+<p>At the moment I'm focusing on learn React and Next.js deeply, like upgrading performance with SSR (Server Side Rendering) and other incredible React tools.</p>
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and tools</h2> 
