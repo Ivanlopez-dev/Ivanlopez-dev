@@ -20,7 +20,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and tools</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,astro,ts,nodejs,express,postgres,mongo,git,github,docker,aws,postman,supabase,cloudflare,figma&perline=11"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,astro,ts,nodejs,express,postgres,mongo,git,github,docker,aws,postman,supabase,cloudflare,figma&perline=10"  />
 </p>
 <br>
 <br>
