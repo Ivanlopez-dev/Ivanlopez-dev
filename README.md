@@ -8,7 +8,7 @@
 </div>
 
 
-<h2 align="center">About me (:</h2>
+<h2 align="center">About me</h2>
   <div align="center">
     <article>
       <p>I have <strong>2+ years experience</strong> working in Agile environment with weekly Sprints, on several projects mainly builded with Vanilla <strong>JavaScript</strong> and libraries/frameworks like React and Next.</p>
