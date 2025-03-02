@@ -1,5 +1,5 @@
 <!--Header-->
-<h4 align="center">Hello fellow!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h4>
+<h4 align="center">Hello fellow! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/></h4>
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Full+Stack+Developer;;Student+of+Software+Engineer;" alt="Headline" />
@@ -13,7 +13,7 @@
     <article>
       <p>I have <strong>2+ years experience</strong> working in Agile environment with weekly Sprints, on several projects mainly builded with Vanilla <strong>JavaScript</strong> and libraries/frameworks like React and Next.</p>
       <p>I started with MERN stack (MongoDb, Express, React and Node) and focused on learning good practices and clean code. </p>
-      <p>At the moment I'm focusing on learn React and Next.js deeply, like upgrading performance with SSR (Server Side Rendering) and other incredible React tools.</p>
+      <p>At the moment I'm focus on learning React and Next.js deeply, like upgrading performance with SSR (Server Side Rendering) and other incredible React tools.</p>
     </article>
   </div>
 
