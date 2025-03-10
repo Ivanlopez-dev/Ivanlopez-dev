@@ -16,6 +16,7 @@
       <p>At the moment I'm focus on learning React and Next.js deeply, like upgrading performance with SSR (Server Side Rendering) and other incredible React tools.</p>
     </article>
   </div>
+<br>
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and tools</h2> 
