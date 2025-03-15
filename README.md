@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-  Thank you very much to visit my profile!
+  Thank you very much for visit my profile!
   <br>
   
   Here is a random joke that'll make you laugh 😂
