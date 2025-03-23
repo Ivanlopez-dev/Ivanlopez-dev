@@ -47,14 +47,3 @@
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder)
   
 </div>
-
-
-<br>
-
-
------
-
-<p align="end">
-  Last Edited on: 11/02/2025
-  
-</p>
