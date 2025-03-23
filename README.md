@@ -4,7 +4,7 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Full-Stack+Developer;;Software+Engineer+Student;" alt="Headline" />
   <h2 align="center">
-   I'm Ivan, FullStack Developer based in Lugo (Galicia, Spain). </h2>
+   I'm Ivan, Full-Stack Developer based in Lugo (Galicia, Spain). </h2>
 </div>
 
 
