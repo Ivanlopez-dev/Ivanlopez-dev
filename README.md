@@ -6,8 +6,6 @@
   <h2 align="center">
    I'm Ivan, Full-Stack Developer based in Lugo (Galicia, Spain). </h2>
 </div>
-
-
 <h2 align="center">About me</h2>
   <div align="center">
     <article>
