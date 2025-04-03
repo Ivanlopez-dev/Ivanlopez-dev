@@ -15,6 +15,7 @@
       <p>Currently I'm learning React and Next.js deeply, as upgrade performance with SSR (Server Side Rendering)</p>
     </article>
   </div>
+  
 <br>
 
 <!--Languages and Tools Section-->       
@@ -22,7 +23,7 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,astro,ts,nodejs,express,postgres,mongo,git,github,docker,aws,postman,supabase,cloudflare,figma&perline=10"  />
 </p>
-<br>
+
 <br>
 
 <h2 align="center">Github Stats</h2>
