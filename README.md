@@ -7,6 +7,7 @@
    I'm Ivan, Full-Stack Developer based in Lugo (Galicia, Spain). </h2>
 </div>
 <h2 align="center">About me</h2>
+
   <div align="center">
     <article>
       <p>I have <strong>2+ years</strong> working in Agile environment with weekly Sprints, on several projects mainly builded with <strong>JavaScript</strong> and libraries/frameworks like React and Next.</p>
