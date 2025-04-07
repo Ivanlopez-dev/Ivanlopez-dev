@@ -15,7 +15,6 @@
       <p>Currently I'm learning React and Next.js deeply, as upgrade performance with SSR (Server Side Rendering)</p>
     </article>
   </div>
-  
 <br>
 
 <!--Languages and Tools Section-->       
@@ -25,7 +24,6 @@
 </p>
 
 <br>
-
 <h2 align="center">Github Stats</h2>
 <br>
 
