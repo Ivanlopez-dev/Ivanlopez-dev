@@ -10,7 +10,7 @@
 
   <div align="center">
     <article>
-      <p>I have <strong>2+ years</strong> experience working in Agile environment with weekly Sprints, on several projects mainly builded with <strong>JavaScript</strong> and libraries or frameworks like React and Next.</p>
+      <p>I have <strong>2+ years</strong> experience working in Agile environment with weekly Sprints, on several projects mainly builded with <strong>JavaScript</strong> and libraries or frameworks like <strong>React</strong> and <strong>Nextjs</strong>.</p>
       <p>I started with MERN stack (MongoDb, Express, React and Node) and I was focus on learning good practices and clean code. </p>
       <p>Currently I'm learning React and Next.js deeply, as upgrading performance with SSR (Server Side Rendering)</p>
     </article>
