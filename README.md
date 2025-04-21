@@ -3,9 +3,13 @@
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Full-Stack+Developer;;Software+Engineer+Student;" alt="Headline" />
+
+  <!--Presentation -->
   <h2 align="center">
    I'm Ivan, Full-Stack Developer based in Lugo-Spain.</h2>
 </div>
+
+<!-- About me-->
 <h2 align="center">About me</h2>
 
   <div align="center">
@@ -23,6 +27,7 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,astro,ts,nodejs,express,postgres,mongo,git,github,docker,aws,postman,supabase,cloudflare,figma&perline=10"  />
 </p>
 
+<!-- GitHub Stats -->
 <br>
 <h2 align="center">Github Stats</h2>
 <br>
