@@ -14,7 +14,7 @@
 <!-- About me-->
 <h2 align="center">About me</h2>
 
-  <div align="center">
+  <div>
     <article>
       <p>I have been <strong>2+ years</strong> working in Agile environment with weekly Sprints, on several projects mainly builded with <strong>JavaScript</strong> and libraries or frameworks like <strong>React</strong> and <strong>Nextjs</strong>.</p>
       <p>Started my path with MERN stack and I was focus on learning good practices and clean code from JavaScript Vanilla first. Also starting first steps with React.</p>
