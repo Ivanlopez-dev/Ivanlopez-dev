@@ -23,7 +23,6 @@
   </div>
 <br>
 
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Languages and tools</h2> 
 <p align="center">
