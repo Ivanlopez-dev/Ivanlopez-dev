@@ -8,7 +8,7 @@
 
   <!--Presentation -->
   <h2 align="center">
-   I'm a Full-Stack Developer based in Lugo, Spain.</h2>
+  
 </div>
 
 <!-- About me-->
