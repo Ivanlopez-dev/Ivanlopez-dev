@@ -6,11 +6,6 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Full-Stack+Developer;;Software+Engineer+Student;" alt="Headline" />
 
-  <!--Presentation -->
-  <h2 align="center">
-  
-</div>
-
 <!-- About me-->
 <h2 align="center">About me</h2>
 
