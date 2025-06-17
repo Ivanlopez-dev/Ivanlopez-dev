@@ -11,9 +11,9 @@
 
   <div>
     <article>
-      <p>I have been <strong>2+ years</strong> working in Agile environment with weekly Sprints, on several projects mainly builded with <strong>JavaScript</strong> and libraries or frameworks like <strong>React</strong> and <strong>Nextjs</strong>.</p>
+      <p><strong>2+ years</strong> working in Agile environment with weekly Sprints, on several projects mainly builded with <strong>JavaScript</strong> and libraries or frameworks like <strong>React</strong> and <strong>Nextjs</strong>.</p>
       <p>Started my path with MERN stack, focused on learning good practices and clean code from JavaScript Vanilla first. Also starting first steps with React.</p>
-      <p>And nowadays, I'm learning React and Next.js deeply, using tools as upgrading performance with SSR for instance.</p>
+      <p>Nowadays, focus on learn React and Next.js deeply, with tools as upgrading performance with SSR for instance.</p>
     </article>
   </div>
 <br>
