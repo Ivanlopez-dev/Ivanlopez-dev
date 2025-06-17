@@ -10,7 +10,7 @@
 <h2 align="center">About me</h2>
   <article>
     <p><strong>2+ years</strong> working in Agile environment with weekly Sprints, strong base in vanilla <strong>JavaScript</strong>. Started my path with <strong>MERN stack</strong>, focused on learn good practices and clean code from the beginning!</p>
-    <p>Nowadays, I'm learning React and Next.js deeply, with tools as upgrading performance with SSR for instance.</p>
+    <p>Nowadays, I'm learning <strong>React</strong> and <strong>Next.js</strong> deeply, with tools as upgrading performance with SSR for instance.</p>
   </article>
 
 </div>
