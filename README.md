@@ -5,7 +5,6 @@
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Full-Stack+Developer;;Software+Engineer+Student;" alt="Headline" />
-</div>
 
 <!-- About me-->
 <h2 align="center">About me</h2>
@@ -17,6 +16,7 @@
       <p>Nowadays, I'm learning React and Next.js deeply, with tools as upgrading performance with SSR for instance.</p>
     </article>
   </div>
+</div>
 <br>
 
 <!--Languages and Tools Section-->       
