@@ -5,6 +5,7 @@
 
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Ivan+Lopez+%F0%9F%91%8B;;Full-Stack+Developer;;Software+Engineer+Student;" alt="Headline" />
+</div>
 
 <!-- About me-->
 <h2 align="center">About me</h2>
@@ -45,4 +46,3 @@
   Here is a random joke that'll make you laugh 😂
   
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula&hideBorder)
-</div>
