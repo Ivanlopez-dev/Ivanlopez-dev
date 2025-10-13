@@ -9,7 +9,7 @@
 <!-- About me-->
 <h2 align="center">About me</h2>
   <article>
-    <p><strong>2+ years</strong> experience, started with <strong>MERN stack</strong>, focused on learn good practices, used to read documentation, and builded a strong base in vanilla <strong>JavaScript</strong>. Used to Agile methodology and Sprints. </p>
+    <p>I'm a curious <strong>Developer with 2+ years</strong> experience building creative applications, started with <strong>MERN stack</strong>, focused on learn good practices, used to read documentation, and builded a strong base in vanilla <strong>JavaScript</strong>. Used to Agile methodology and Sprints. </p>
     <p>Nowadays, I'm learning <strong>Angular</strong> deeply.</p>
   </article>
 
